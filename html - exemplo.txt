@@ -1,0 +1,555 @@
+<html lang="pt-BR" style=""><head>
+	<meta charset="UTF-8">
+		<title>Cadastro 1v-B – Auto FinTech</title>
+<meta name="robots" content="max-image-preview:large">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-W0PZDXWTLE"></script><script src="https://connect.facebook.net/signals/config/792593423800787?v=2.9.272&amp;r=stable&amp;domain=autofintech.com.br&amp;hme=243a8305e15c8bf3a50c0d350a428553388d507240cf13e95dd0abfb8651365d&amp;ex_m=100%2C192%2C141%2C22%2C69%2C70%2C134%2C65%2C64%2C11%2C149%2C86%2C16%2C128%2C121%2C72%2C75%2C127%2C146%2C151%2C8%2C4%2C5%2C7%2C6%2C3%2C87%2C97%2C152%2C157%2C206%2C59%2C173%2C174%2C52%2C250%2C30%2C71%2C218%2C217%2C216%2C23%2C32%2C99%2C58%2C10%2C60%2C93%2C94%2C95%2C101%2C124%2C31%2C29%2C126%2C123%2C122%2C142%2C73%2C145%2C143%2C144%2C47%2C57%2C117%2C15%2C148%2C42%2C238%2C239%2C237%2C26%2C27%2C28%2C45%2C135%2C74%2C108%2C18%2C20%2C41%2C37%2C39%2C38%2C80%2C88%2C92%2C106%2C133%2C136%2C43%2C107%2C24%2C21%2C113%2C66%2C35%2C138%2C137%2C139%2C130%2C129%2C25%2C34%2C56%2C105%2C147%2C67%2C17%2C140%2C110%2C78%2C63%2C19%2C81%2C82%2C33%2C262%2C199%2C188%2C189%2C187%2C265%2C257%2C49%2C200%2C103%2C125%2C77%2C115%2C51%2C44%2C46%2C109%2C114%2C120%2C55%2C61%2C50%2C53%2C96%2C150%2C1%2C118%2C14%2C116%2C12%2C2%2C54%2C89%2C62%2C112%2C85%2C84%2C153%2C154%2C90%2C91%2C9%2C119%2C98%2C48%2C131%2C83%2C76%2C68%2C111%2C102%2C40%2C132%2C0%2C79%2C36%2C104%2C13%2C155" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+	( function() {
+		var query = document.location.search;
+
+		if ( query && query.indexOf( 'preview=true' ) !== -1 ) {
+			window.name = 'wp-preview-4979';
+		}
+
+		if ( window.addEventListener ) {
+			window.addEventListener( 'pagehide', function() { window.name = ''; } );
+		}
+	}());
+	//# sourceURL=wp_post_preview_js	
+</script>
+<link rel="alternate" type="application/rss+xml" title="Feed para Auto FinTech »" href="https://autofintech.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Auto FinTech »" href="https://autofintech.com.br/comments/feed/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://autofintech.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fautofintech.com.br%2Fcodigo-secreto-b%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://autofintech.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fautofintech.com.br%2Fcodigo-secreto-b%2F&amp;format=xml">
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel="stylesheet" id="dashicons-css" href="https://autofintech.com.br/wp-includes/css/dashicons.min.css?ver=6.9.1" media="all">
+<link rel="stylesheet" id="admin-bar-css" href="https://autofintech.com.br/wp-includes/css/admin-bar.min.css?ver=6.9.1" media="all">
+<style id="admin-bar-inline-css">
+
+		@media screen { html { margin-top: 32px !important; } }
+		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
+	
+@media print { #wpadminbar { display:none; } }
+/*# sourceURL=admin-bar-inline-css */
+</style>
+<link rel="stylesheet" id="elementor-icons-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.47.0" media="all">
+<link rel="stylesheet" id="elementor-common-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.35.5" media="all">
+<link rel="stylesheet" id="e-theme-ui-light-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.35.5" media="all">
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel="stylesheet" id="forex-carousel-style-css" href="https://autofintech.com.br/wp-content/plugins/Gerenciador%20de%20Licenças/assets/css/carousel-frontend.css?ver=1.0.0" media="all">
+<link rel="stylesheet" id="hello-elementor-css" href="https://autofintech.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.5" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="https://autofintech.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.5" media="all">
+<link rel="stylesheet" id="hello-elementor-header-footer-css" href="https://autofintech.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.5" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.5" media="all">
+<link rel="stylesheet" id="elementor-post-5-css" href="https://autofintech.com.br/wp-content/uploads/elementor/css/post-5.css?ver=1772014786" media="all">
+<link rel="stylesheet" id="elementor-pro-notes-frontend-css" href="https://autofintech.com.br/wp-content/plugins/elementor-pro/assets/css/modules/notes.min.css?ver=3.35.1" media="all">
+<link rel="stylesheet" id="elementor-wp-admin-bar-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/css/admin-bar.min.css?ver=3.35.5" media="all">
+<link rel="stylesheet" id="widget-heading-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.5" media="all">
+<link rel="stylesheet" id="widget-image-css" href="https://autofintech.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.5" media="all">
+<link rel="stylesheet" id="elementor-post-4979-css" href="https://autofintech.com.br/wp-content/uploads/elementor/css/post-4979.css?ver=1772041857" media="all">
+<link rel="stylesheet" id="elementor-gf-local-roboto-css" href="https://autofintech.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742259945" media="all">
+<link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="https://autofintech.com.br/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742259949" media="all">
+<link rel="stylesheet" id="elementor-gf-local-montserrat-css" href="https://autofintech.com.br/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1769057513" media="all">
+<link rel="stylesheet" id="elementor-gf-local-orbitron-css" href="https://autofintech.com.br/wp-content/uploads/elementor/google-fonts/css/orbitron.css?ver=1769057514" media="all">
+<link rel="stylesheet" id="elementor-gf-local-antonio-css" href="https://autofintech.com.br/wp-content/uploads/elementor/google-fonts/css/antonio.css?ver=1752378848" media="all">
+<script src="https://autofintech.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="elementor-pro-app-js-before">
+var elementorAppProConfig = {"baseUrl":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor-pro\/","site-editor":{"urls":{"legacy_view":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme"},"utms":{"utm_source":"theme-builder","utm_medium":"wp-dash"}},"kit-library":[],"onboarding":[],"import-export":[],"import-export-customization":[]};
+//# sourceURL=elementor-pro-app-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/SendMaster/assets/js/ge-pixel.js?ver=2.1.4" id="ge-pixel-js-js"></script>
+<script id="ge-pixel-js-js-after">
+(function(window, document, GE, url) {
+                window[GE] = window[GE] || function() { (window[GE].q = window[GE].q || []).push(arguments) };
+                window[GE]("init", url);
+                window[GE]("track", "page_view");
+            })(window, document, "GE", "https://autofintech.com.br/wp-json/ge-advanced/v1/pixel/track");
+        
+//# sourceURL=ge-pixel-js-js-after
+</script>
+<link rel="https://api.w.org/" href="https://autofintech.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://autofintech.com.br/wp-json/wp/v2/pages/4979"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://autofintech.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.9.1">
+<link rel="canonical" href="https://autofintech.com.br/codigo-secreto-b/">
+<link rel="shortlink" href="https://autofintech.com.br/?p=4979">
+<meta name="generator" content="Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+
+<!--
+Title: Trajettu
+Type: elementor_snippet
+Author: Victor
+Last edited: 2026-02-25 06:35:51
+--- The comment is visible only for administrators ---
+-->
+<script defer="" src="https://api.trajettu.com/sdk/tracker.js?key=site_JuDpH2aZ_xJNYa58EgtRKlTl"></script>
+
+<!-- End of snippet -->
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://autofintech.com.br/wp-content/uploads/2024/05/Auto-Fintech-2-150x150.webp" sizes="32x32">
+<link rel="icon" href="https://autofintech.com.br/wp-content/uploads/2024/05/Auto-Fintech-2.webp" sizes="192x192">
+<link rel="apple-touch-icon" href="https://autofintech.com.br/wp-content/uploads/2024/05/Auto-Fintech-2.webp">
+<meta name="msapplication-TileImage" content="https://autofintech.com.br/wp-content/uploads/2024/05/Auto-Fintech-2.webp">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
+<body class="wp-singular page-template page-template-elementor_canvas page page-id-4979 logged-in admin-bar wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-4979 customize-support dialog-body dialog-buttons-body dialog-container dialog-buttons-container e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop" style="">
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+//# sourceURL=wp_customize_support_script
+</script>
+		<div id="wpadminbar" class="nojq" style="">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de ferramentas">
+				<ul role="menu" id="wp-admin-bar-root-default" class="ab-top-menu"><li role="group" id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://autofintech.com.br/wp-admin/about.php"><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Sobre o WordPress</span></a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Sobre o WordPress" id="wp-admin-bar-wp-logo-default" class="ab-submenu"><li role="group" id="wp-admin-bar-about"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/about.php">Sobre o WordPress</a></li><li role="group" id="wp-admin-bar-contribute"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/contribute.php">Participe</a></li></ul><ul role="menu" aria-label="Sobre o WordPress" id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu"><li role="group" id="wp-admin-bar-wporg"><a class="ab-item" role="menuitem" href="https://br.wordpress.org/">WordPress.org</a></li><li role="group" id="wp-admin-bar-documentation"><a class="ab-item" role="menuitem" href="https://wordpress.org/documentation/">Documentação</a></li><li role="group" id="wp-admin-bar-learn"><a class="ab-item" role="menuitem" href="https://learn.wordpress.org/">Aprenda WordPress</a></li><li role="group" id="wp-admin-bar-support-forums"><a class="ab-item" role="menuitem" href="https://br.wordpress.org/support/forums/">Suporte</a></li><li role="group" id="wp-admin-bar-feedback"><a class="ab-item" role="menuitem" href="https://wordpress.org/support/forum/requests-and-feedback">Sugestões e comentários</a></li></ul></div></li><li role="group" id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://autofintech.com.br/wp-admin/">Auto FinTech</a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Auto FinTech" id="wp-admin-bar-site-name-default" class="ab-submenu"><li role="group" id="wp-admin-bar-dashboard"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/">Painel</a></li><li role="group" id="wp-admin-bar-plugins"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/plugins.php">Plugins</a></li></ul><ul role="menu" aria-label="Auto FinTech" id="wp-admin-bar-appearance" class="ab-submenu"><li role="group" id="wp-admin-bar-themes"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/themes.php">Temas</a></li><li role="group" id="wp-admin-bar-menus"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/nav-menus.php">Menus</a></li></ul></div></li><li role="group" id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/customize.php?url=https%3A%2F%2Fautofintech.com.br%2Fcodigo-secreto-b%2F%3Fpreview_id%3D4979%26preview_nonce%3Ddaf4a93b5c%26preview%3Dtrue">Personalizar</a></li><li role="group" id="wp-admin-bar-updates"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/update-core.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">1</span><span class="screen-reader-text updates-available-text">1 atualização disponível</span></a></li><li role="group" id="wp-admin-bar-comments"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/edit-comments.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 comentário esperando moderação</span></a></li><li role="group" id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://autofintech.com.br/wp-admin/post-new.php"><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Novo</span></a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Novo" id="wp-admin-bar-new-content-default" class="ab-submenu"><li role="group" id="wp-admin-bar-new-post"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/post-new.php">Post</a></li><li role="group" id="wp-admin-bar-new-media"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/media-new.php">Mídia</a></li><li role="group" id="wp-admin-bar-new-page"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/post-new.php?post_type=page">Página</a></li><li role="group" id="wp-admin-bar-new-e-floating-buttons"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/edit.php?action=elementor_new_post&amp;post_type=e-floating-buttons&amp;template_type=floating-buttons&amp;_wpnonce=d55c9d48ee">Elemento flutuante</a></li><li role="group" id="wp-admin-bar-new-elementor_library"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/post-new.php?post_type=elementor_library">Modelo</a></li><li role="group" id="wp-admin-bar-new-pretty-link"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/post-new.php?post_type=pretty-link">Pretty Link</a></li><li role="group" id="wp-admin-bar-new-user"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/user-new.php">Usuário</a></li></ul></div></li><li role="group" id="wp-admin-bar-edit"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/post.php?post=4979&amp;action=edit">Editar página</a></li><li id="wp-admin-bar-elementor_edit_page" class="menupop"><a aria-haspopup="true" class="ab-item  " href="https://autofintech.com.br/wp-admin/post.php?post=4979&amp;action=elementor"><span class="elementor-edit-link-title">Editar com Elementor</span></a><div class="ab-sub-wrapper"><ul class="ab-submenu" id="wp-admin-bar-elementor_edit_page-default"><li id="wp-admin-bar-elementor_site_settings" class="elementor-second-section"><a class="ab-item  elementor-site-settings" href="https://autofintech.com.br/wp-admin/post.php?post=4979&amp;action=elementor&amp;active-document=5"><span class="elementor-edit-link-title">Configurações do site</span><span class="elementor-edit-link-type">Site</span></a></li><li id="wp-admin-bar-elementor_app_site_editor" class="elementor-second-section"><a class="ab-item  elementor-app-link" href="https://autofintech.com.br/wp-admin/admin.php?page=elementor-app&amp;ver=3.35.5#/site-editor"><span class="elementor-edit-link-title">Construtor de temas</span><span class="elementor-edit-link-type">Site</span></a></li><li id="wp-admin-bar-elementor_site_clear_cache" class="elementor-general-section"><a class="ab-item  " href="https://autofintech.com.br/wp-admin/admin-post.php?action=elementor_site_clear_cache&amp;_wpnonce=a493831fcd"><span class="elementor-edit-link-title">Limpar arquivos e dados</span><span class="elementor-edit-link-type">Site</span></a></li></ul></div></li><li role="group" id="wp-admin-bar-elementor_notes"><a class="ab-item" role="menuitem" href="#">Atividades Desempenhadas</a></li></ul><ul role="menu" id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu"><li role="group" id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" role="menuitem" aria-expanded="false" href="https://autofintech.com.br/wp-admin/profile.php">Olá, <span class="display-name">Victor</span><img alt="" src="https://secure.gravatar.com/avatar/4840c78d845ddea154319a018018e50b6e823c44dc8e8d670fbff4b9dc55cdfb?s=26&amp;r=g" srcset="https://secure.gravatar.com/avatar/4840c78d845ddea154319a018018e50b6e823c44dc8e8d670fbff4b9dc55cdfb?s=52&amp;r=g 2x" class="avatar avatar-26 photo" height="26" width="26" decoding="async"></a><div class="ab-sub-wrapper"><ul role="menu" aria-label="Olá, Victor" id="wp-admin-bar-user-actions" class="ab-submenu"><li role="group" id="wp-admin-bar-user-info"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-admin/profile.php"><img alt="" src="https://secure.gravatar.com/avatar/4840c78d845ddea154319a018018e50b6e823c44dc8e8d670fbff4b9dc55cdfb?s=64&amp;r=g" srcset="https://secure.gravatar.com/avatar/4840c78d845ddea154319a018018e50b6e823c44dc8e8d670fbff4b9dc55cdfb?s=128&amp;r=g 2x" class="avatar avatar-64 photo" height="64" width="64" decoding="async"><span class="display-name">Victor</span><span class="username">victorhamber@hotmail.com</span><span class="display-name edit-profile">Editar perfil</span></a></li><li role="group" id="wp-admin-bar-logout"><a class="ab-item" role="menuitem" href="https://autofintech.com.br/wp-login.php?action=logout&amp;_wpnonce=1fafa2740e">Sair</a></li></ul></div></li><li role="group" id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://autofintech.com.br/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150"><label for="adminbar-search" class="screen-reader-text">Pesquisar</label><input type="submit" class="adminbar-button" value="Pesquisar"></form></div></li></ul>			</div>
+		</div>
+
+				<div data-elementor-type="wp-page" data-elementor-id="4979" class="elementor elementor-4979" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-44aa302 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="44aa302" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fca549d e-con-full e-flex e-con e-child" data-id="fca549d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3d519a6 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="3d519a6" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">código</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-eaf4de8 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="eaf4de8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">secreto</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-74fef6a elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="74fef6a" data-element_type="widget" data-e-type="widget" id="form" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Transforme sua forma de executar operações no Forex</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-15500a0 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="15500a0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Ferramenta desenvolvida para padronizar a execução de estratégias, reduzir interferências emocionais e apoiar traders que desejam seguir um método com maior controle e organização no mercado financeiro.</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0ff63da elementor-widget__width-initial form elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0ff63da" data-element_type="widget" data-e-type="widget" id="form" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<!-- Início do Formulário de Captura (Tema Escuro) -->
+<form id="trk-form-1772041911875" onsubmit="handleTrkSubmit(event)" style="max-width:400px; margin:0 auto; font-family:sans-serif;">
+  <input type="text" name="fn" placeholder="Nome" required="" style="display:block; width:100%; margin-bottom:10px; padding:10px; border:1px solid #444; border-radius:4px; background:#222; color:#fff;">
+  <input type="email" name="email" placeholder="E-mail" required="" style="display:block; width:100%; margin-bottom:10px; padding:10px; border:1px solid #444; border-radius:4px; background:#222; color:#fff;">
+  <div style="display:flex; gap:8px; margin-bottom:10px;"><select name="ddi" style="width:90px; padding:10px; border:1px solid #444; border-radius:4px; background:#222; color:#fff;"><option value="+93">+93 Afghanistan</option><option value="+355">+355 Albania</option><option value="+213">+213 Algeria</option><option value="+1-684">+1-684 American Samoa</option><option value="+376">+376 Andorra</option><option value="+244">+244 Angola</option><option value="+1-264">+1-264 Anguilla</option><option value="+672">+672 Antarctica</option><option value="+1-268">+1-268 Antigua and Barbuda</option><option value="+54">+54 Argentina</option><option value="+374">+374 Armenia</option><option value="+297">+297 Aruba</option><option value="+61">+61 Australia</option><option value="+43">+43 Austria</option><option value="+994">+994 Azerbaijan</option><option value="+1-242">+1-242 Bahamas</option><option value="+973">+973 Bahrain</option><option value="+880">+880 Bangladesh</option><option value="+1-246">+1-246 Barbados</option><option value="+375">+375 Belarus</option><option value="+32">+32 Belgium</option><option value="+501">+501 Belize</option><option value="+229">+229 Benin</option><option value="+1-441">+1-441 Bermuda</option><option value="+975">+975 Bhutan</option><option value="+591">+591 Bolivia</option><option value="+387">+387 Bosnia and Herzegovina</option><option value="+267">+267 Botswana</option><option value="+55" selected="">+55 Brazil</option><option value="+246">+246 British Indian Ocean Territory</option><option value="+1-284">+1-284 British Virgin Islands</option><option value="+673">+673 Brunei</option><option value="+359">+359 Bulgaria</option><option value="+226">+226 Burkina Faso</option><option value="+257">+257 Burundi</option><option value="+855">+855 Cambodia</option><option value="+237">+237 Cameroon</option><option value="+1">+1 Canada</option><option value="+238">+238 Cape Verde</option><option value="+1-345">+1-345 Cayman Islands</option><option value="+236">+236 Central African Republic</option><option value="+235">+235 Chad</option><option value="+56">+56 Chile</option><option value="+86">+86 China</option><option value="+61">+61 Christmas Island</option><option value="+61">+61 Cocos Islands</option><option value="+57">+57 Colombia</option><option value="+269">+269 Comoros</option><option value="+682">+682 Cook Islands</option><option value="+506">+506 Costa Rica</option><option value="+385">+385 Croatia</option><option value="+53">+53 Cuba</option><option value="+599">+599 Curacao</option><option value="+357">+357 Cyprus</option><option value="+420">+420 Czech Republic</option><option value="+243">+243 Democratic Republic of the Congo</option><option value="+45">+45 Denmark</option><option value="+253">+253 Djibouti</option><option value="+1-767">+1-767 Dominica</option><option value="+1-809">+1-809 Dominican Republic</option><option value="+1-829">+1-829 Dominican Republic</option><option value="+1-849">+1-849 Dominican Republic</option><option value="+670">+670 East Timor</option><option value="+593">+593 Ecuador</option><option value="+20">+20 Egypt</option><option value="+503">+503 El Salvador</option><option value="+240">+240 Equatorial Guinea</option><option value="+291">+291 Eritrea</option><option value="+372">+372 Estonia</option><option value="+251">+251 Ethiopia</option><option value="+500">+500 Falkland Islands</option><option value="+298">+298 Faroe Islands</option><option value="+679">+679 Fiji</option><option value="+358">+358 Finland</option><option value="+33">+33 France</option><option value="+689">+689 French Polynesia</option><option value="+241">+241 Gabon</option><option value="+220">+220 Gambia</option><option value="+995">+995 Georgia</option><option value="+49">+49 Germany</option><option value="+233">+233 Ghana</option><option value="+350">+350 Gibraltar</option><option value="+30">+30 Greece</option><option value="+299">+299 Greenland</option><option value="+1-473">+1-473 Grenada</option><option value="+1-671">+1-671 Guam</option><option value="+502">+502 Guatemala</option><option value="+44-1481">+44-1481 Guernsey</option><option value="+224">+224 Guinea</option><option value="+245">+245 Guinea-Bissau</option><option value="+592">+592 Guyana</option><option value="+509">+509 Haiti</option><option value="+504">+504 Honduras</option><option value="+852">+852 Hong Kong</option><option value="+36">+36 Hungary</option><option value="+354">+354 Iceland</option><option value="+91">+91 India</option><option value="+62">+62 Indonesia</option><option value="+98">+98 Iran</option><option value="+964">+964 Iraq</option><option value="+353">+353 Ireland</option><option value="+44-1624">+44-1624 Isle of Man</option><option value="+972">+972 Israel</option><option value="+39">+39 Italy</option><option value="+225">+225 Ivory Coast</option><option value="+1-876">+1-876 Jamaica</option><option value="+81">+81 Japan</option><option value="+44-1534">+44-1534 Jersey</option><option value="+962">+962 Jordan</option><option value="+7">+7 Kazakhstan</option><option value="+254">+254 Kenya</option><option value="+686">+686 Kiribati</option><option value="+383">+383 Kosovo</option><option value="+965">+965 Kuwait</option><option value="+996">+996 Kyrgyzstan</option><option value="+856">+856 Laos</option><option value="+371">+371 Latvia</option><option value="+961">+961 Lebanon</option><option value="+266">+266 Lesotho</option><option value="+231">+231 Liberia</option><option value="+218">+218 Libya</option><option value="+423">+423 Liechtenstein</option><option value="+370">+370 Lithuania</option><option value="+352">+352 Luxembourg</option><option value="+853">+853 Macau</option><option value="+389">+389 Macedonia</option><option value="+261">+261 Madagascar</option><option value="+265">+265 Malawi</option><option value="+60">+60 Malaysia</option><option value="+960">+960 Maldives</option><option value="+223">+223 Mali</option><option value="+356">+356 Malta</option><option value="+692">+692 Marshall Islands</option><option value="+222">+222 Mauritania</option><option value="+230">+230 Mauritius</option><option value="+262">+262 Mayotte</option><option value="+52">+52 Mexico</option><option value="+691">+691 Micronesia</option><option value="+373">+373 Moldova</option><option value="+377">+377 Monaco</option><option value="+976">+976 Mongolia</option><option value="+382">+382 Montenegro</option><option value="+1-664">+1-664 Montserrat</option><option value="+212">+212 Morocco</option><option value="+258">+258 Mozambique</option><option value="+95">+95 Myanmar</option><option value="+264">+264 Namibia</option><option value="+674">+674 Nauru</option><option value="+977">+977 Nepal</option><option value="+31">+31 Netherlands</option><option value="+599">+599 Netherlands Antilles</option><option value="+687">+687 New Caledonia</option><option value="+64">+64 New Zealand</option><option value="+505">+505 Nicaragua</option><option value="+227">+227 Niger</option><option value="+234">+234 Nigeria</option><option value="+683">+683 Niue</option><option value="+850">+850 North Korea</option><option value="+1-670">+1-670 Northern Mariana Islands</option><option value="+47">+47 Norway</option><option value="+968">+968 Oman</option><option value="+92">+92 Pakistan</option><option value="+680">+680 Palau</option><option value="+970">+970 Palestine</option><option value="+507">+507 Panama</option><option value="+675">+675 Papua New Guinea</option><option value="+595">+595 Paraguay</option><option value="+51">+51 Peru</option><option value="+63">+63 Philippines</option><option value="+64">+64 Pitcairn</option><option value="+48">+48 Poland</option><option value="+351">+351 Portugal</option><option value="+1-787">+1-787 Puerto Rico</option><option value="+1-939">+1-939 Puerto Rico</option><option value="+974">+974 Qatar</option><option value="+242">+242 Republic of the Congo</option><option value="+262">+262 Reunion</option><option value="+40">+40 Romania</option><option value="+7">+7 Russia</option><option value="+250">+250 Rwanda</option><option value="+590">+590 Saint Barthelemy</option><option value="+290">+290 Saint Helena</option><option value="+1-869">+1-869 Saint Kitts and Nevis</option><option value="+1-758">+1-758 Saint Lucia</option><option value="+590">+590 Saint Martin</option><option value="+508">+508 Saint Pierre and Miquelon</option><option value="+1-784">+1-784 Saint Vincent and the Grenadines</option><option value="+685">+685 Samoa</option><option value="+378">+378 San Marino</option><option value="+239">+239 Sao Tome and Principe</option><option value="+966">+966 Saudi Arabia</option><option value="+221">+221 Senegal</option><option value="+381">+381 Serbia</option><option value="+248">+248 Seychelles</option><option value="+232">+232 Sierra Leone</option><option value="+65">+65 Singapore</option><option value="+1-721">+1-721 Sint Maarten</option><option value="+421">+421 Slovakia</option><option value="+386">+386 Slovenia</option><option value="+677">+677 Solomon Islands</option><option value="+252">+252 Somalia</option><option value="+27">+27 South Africa</option><option value="+82">+82 South Korea</option><option value="+211">+211 South Sudan</option><option value="+34">+34 Spain</option><option value="+94">+94 Sri Lanka</option><option value="+249">+249 Sudan</option><option value="+597">+597 Suriname</option><option value="+47">+47 Svalbard and Jan Mayen</option><option value="+268">+268 Swaziland</option><option value="+46">+46 Sweden</option><option value="+41">+41 Switzerland</option><option value="+963">+963 Syria</option><option value="+886">+886 Taiwan</option><option value="+992">+992 Tajikistan</option><option value="+255">+255 Tanzania</option><option value="+66">+66 Thailand</option><option value="+228">+228 Togo</option><option value="+690">+690 Tokelau</option><option value="+676">+676 Tonga</option><option value="+1-868">+1-868 Trinidad and Tobago</option><option value="+216">+216 Tunisia</option><option value="+90">+90 Turkey</option><option value="+993">+993 Turkmenistan</option><option value="+1-649">+1-649 Turks and Caicos Islands</option><option value="+688">+688 Tuvalu</option><option value="+1-340">+1-340 U.S. Virgin Islands</option><option value="+256">+256 Uganda</option><option value="+380">+380 Ukraine</option><option value="+971">+971 United Arab Emirates</option><option value="+44">+44 United Kingdom</option><option value="+1">+1 United States</option><option value="+598">+598 Uruguay</option><option value="+998">+998 Uzbekistan</option><option value="+678">+678 Vanuatu</option><option value="+39">+39 Vatican</option><option value="+58">+58 Venezuela</option><option value="+84">+84 Vietnam</option><option value="+681">+681 Wallis and Futuna</option><option value="+212">+212 Western Sahara</option><option value="+967">+967 Yemen</option><option value="+260">+260 Zambia</option><option value="+263">+263 Zimbabwe</option></select><input type="tel" name="phone" placeholder="Telefone" required="" style="flex:1; padding:10px; border:1px solid #444; border-radius:4px; background:#222; color:#fff;"></div>
+  <button type="submit" style="padding:10px 20px; cursor:pointer; border:none; border-radius:4px; font-weight:bold; width:100%; background-color:#ff653b !important; color:#FFFFFF !important;">Quero me inscrever agora →</button>
+</form>
+
+<script>
+async function handleTrkSubmit(e) {
+  e.preventDefault();
+  var form = e.target;
+  var btn = form.querySelector('button[type="submit"]');
+  var originalText = btn.innerText;
+  btn.disabled = true;
+  btn.innerText = 'Enviando...';
+
+  var data = {};
+  // Meta CAPI requer: fn (first_name) e ln (last_name) em lowercase
+  if (form.fn && form.fn.value) {
+    var fullName = form.fn.value.trim().toLowerCase();
+    var parts = fullName.split(/s+/);
+    data.fn = parts[0];
+    if (parts.length > 1) data.ln = parts.slice(1).join(' ');
+  }
+  // Meta CAPI requer: em (email) em lowercase
+  if (form.email && form.email.value) data.email = form.email.value.trim().toLowerCase();
+  var ddi = form.ddi ? form.ddi.value : '+55';
+  var ddiDigits = (ddi || '').toString().replace(/[^0-9]/g, '');
+  if (!ddiDigits) ddiDigits = '55';
+  var phoneRaw = form.phone ? form.phone.value : '';
+  var phoneDigits = (phoneRaw || '').toString().replace(/[^0-9]/g, '');
+  if (phoneDigits) data.phone = '+' + ddiDigits + phoneDigits;
+
+  // 1. Client-side tracking
+  if (window.tracker) {
+    window.tracker.identify(data);
+    var evtData = {};
+    evtData.value = 5;
+    evtData.currency = 'BRL';
+    window.tracker.track('Cadastro_Grupo', evtData);
+  }
+
+  // 2. Server-side submission
+  try {
+    var res = await fetch('https://api.trajettu.com/public/forms/1f667902-3ddb-4bae-987b-23a9357c39d9/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+    var json = await res.json();
+
+    if (json.action === 'redirect' && json.redirect_url) {
+      window.location.href = json.redirect_url;
+    } else if (json.message) {
+      form.innerHTML = '<div style="padding:20px; text-align:center; color:#fff;">' + json.message + '</div>';
+    } else {
+       form.reset();
+       alert('Enviado com sucesso!');
+       btn.disabled = false;
+       btn.innerText = originalText;
+    }
+  } catch (err) {
+    console.error(err);
+    alert('Erro ao enviar. Tente novamente.');
+    btn.disabled = false;
+    btn.innerText = originalText;
+  }
+}
+</script>
+
+<!-- Fim do Formulário de Captura -->				</div>
+				</div>
+				<div class="elementor-element elementor-element-52da228 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="52da228" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">🔒 Apenas para traders que levam o mercado a sério.</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-86224a3 e-con-full e-flex e-con e-child" data-id="86224a3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d4919f3 elementor-widget elementor-widget-image" data-id="d4919f3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="800" height="1000" src="https://autofintech.com.br/wp-content/uploads/2025/12/Sem-Titulo-1-819x1024.png" class="attachment-large size-large wp-image-5291" alt="" srcset="https://autofintech.com.br/wp-content/uploads/2025/12/Sem-Titulo-1-819x1024.png 819w, https://autofintech.com.br/wp-content/uploads/2025/12/Sem-Titulo-1-240x300.png 240w, https://autofintech.com.br/wp-content/uploads/2025/12/Sem-Titulo-1-768x960.png 768w, https://autofintech.com.br/wp-content/uploads/2025/12/Sem-Titulo-1.png 1080w" sizes="(max-width: 800px) 100vw, 800px">															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-07ad4d1 e-con-full e-flex e-con e-parent e-lazyloaded" data-id="07ad4d1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-d1315bc elementor-widget elementor-widget-html" data-id="d1315bc" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div class="marquee">
+  <div class="marquee__inner">
+    <span>⚠️ NÃO É INDICADOR MILAGROSO • SISTEMA FOCADO EM EXECUÇÃO • DISCIPLINA ACIMA DE PROMESSAS • PARA TRADERS SÉRIOS • </span>
+    <span>⚠️ NÃO É INDICADOR MILAGROSO • SISTEMA FOCADO EM EXECUÇÃO • DISCIPLINA ACIMA DE PROMESSAS • PARA TRADERS SÉRIOS • </span>
+  </div>
+</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e4ed6b1 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="e4ed6b1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d78c234 elementor-widget elementor-widget-text-editor" data-id="d78c234" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="2478" data-end="2639">O que você vai receber após liberar o acesso</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-3c36157 e-con-full e-flex e-con e-child" data-id="3c36157" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5ec8499 e-con-full e-flex e-con e-child" data-id="5ec8499" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-ed17051 elementor-widget elementor-widget-heading" data-id="ed17051" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">1. Redirecionamento para o grupo de avisos</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b2f1180 elementor-widget elementor-widget-text-editor" data-id="b2f1180" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Após concluir o cadastro, você será automaticamente redirecionado para o <strong data-start="439" data-end="471">grupo oficial de comunicação</strong>, onde serão enviados todos os avisos importantes sobre a liberação do acesso e próximos passos.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1d9cc48 e-con-full e-flex e-con e-child" data-id="1d9cc48" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-156ba57 elementor-widget elementor-widget-heading" data-id="156ba57" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">2. Aguardar a liberação no horário informado</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-58602aa elementor-widget elementor-widget-text-editor" data-id="58602aa" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>É importante permanecer no grupo, pois o <strong data-start="664" data-end="720">acesso experimental será liberado no domingo, às 19h</strong>, conforme cronograma. Todas as instruções serão comunicadas exclusivamente por esse canal.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2fbf1cc e-con-full e-flex e-con e-child" data-id="2fbf1cc" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-281cb4b elementor-widget elementor-widget-heading" data-id="281cb4b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">3. Recebimento das instruções de acesso</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e54e59c elementor-widget elementor-widget-text-editor" data-id="e54e59c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>No horário programado, você receberá no grupo as <strong data-start="911" data-end="950">orientações para acessar o ambiente</strong>, entender o funcionamento da ferramenta e iniciar o período experimental de forma organizada.</p>								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d95794d e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="d95794d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d7e4957 e-con-full e-flex e-con e-child" data-id="d7e4957" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-90695b0 elementor-widget elementor-widget-text-editor" data-id="90695b0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="2478" data-end="2639">contexto operacional</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-cebef51 elementor-widget elementor-widget-text-editor" data-id="cebef51" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="2478" data-end="2639">por que essa ferramenta foi criada</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f4be644 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="f4be644" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;"><span>Grande parte das dificuldades enfrentadas por traders não está na estratégia, mas na execução inconsistente, na quebra de regras e na interferência emocional durante o mercado.</span></p><p style="text-align: center;"><span>Esta ferramenta foi desenvolvida para apoiar a padronização do processo operacional, ajudando o usuário a seguir um plano definido, organizar decisões e reduzir ruídos emocionais ao longo das operações.</span></p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3fea154 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="3fea154" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-721d394 e-con-full e-flex e-con e-child" data-id="721d394" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b3b8d3d elementor-widget elementor-widget-image" data-id="b3b8d3d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="682" height="1024" src="https://autofintech.com.br/wp-content/uploads/2025/06/Perfil2-copiar-1-682x1024-1.webp" class="attachment-large size-large wp-image-3797" alt="" srcset="https://autofintech.com.br/wp-content/uploads/2025/06/Perfil2-copiar-1-682x1024-1.webp 682w, https://autofintech.com.br/wp-content/uploads/2025/06/Perfil2-copiar-1-682x1024-1-200x300.webp 200w" sizes="(max-width: 682px) 100vw, 682px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-555dde3 e-con-full e-flex e-con e-child" data-id="555dde3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-77e2ad1 elementor-widget elementor-widget-text-editor" data-id="77e2ad1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span style="color: #ffffff;"><strong><span class="_aupe copyable-text xkrh14z">PARA QUEM ESSA FERRAMENTA FAZ SENTIDO</span></strong></span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Traders que já possuem conhecimento básico do mercado financeiro</span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Pessoas que valorizam processo, método e disciplina operacional</span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Usuários que buscam mais organização na execução das operações</span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Quem prefere testar uma ferramenta antes de qualquer decisão futura</span></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3b174bb elementor-widget elementor-widget-text-editor" data-id="3b174bb" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span style="color: #ffffff;"><strong><span class="_aupe copyable-text xkrh14z">PARA QUEM ESSA FERRAMENTA NÃO É INDICADA</span></strong></span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Pessoas em busca de ganhos rápidos ou promessas irreais</span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Quem não está disposto a seguir regras e processos</span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Usuários que não aceitam os riscos naturais do mercado financeiro</span></p><p class="_aupe copyable-text x15bjb6t x1n2onr6" style="text-align: left;"><span class="_aupe copyable-text xkrh14z">Iniciantes absolutos sem nenhum contato prévio com trading</span></p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4bfd09e e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="4bfd09e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3d3c462 e-con-full e-flex e-con e-child" data-id="3d3c462" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8e4c5b6 elementor-widget elementor-widget-text-editor" data-id="8e4c5b6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="2478" data-end="2639">ACESSO EXPERIMENTAL COM <span style="color: #ff653b;">VAGAS LIMITADAS</span></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-be49d61 elementor-widget elementor-widget-text-editor" data-id="be49d61" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="2478" data-end="2639">Você pode solicitar um <span style="color: #ff653b;"><strong data-start="2501" data-end="2524">acesso experimental</strong></span> para conhecer a plataforma, entender seu funcionamento e avaliar se ela faz sentido para o seu perfil operacional.</p><p data-start="2641" data-end="2695"><span style="color: #ff653b;"><strong>Sem compromisso e sem obrigatoriedade de continuidade.</strong></span></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-15706b3 elementor-widget elementor-widget-button" data-id="15706b3" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#form" id="cadastro">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>			</span>
+									<span class="elementor-button-text">Solicitar acesso experimental</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-240d2aca e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="240d2aca" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-33593cbf elementor-widget elementor-widget-text-editor" data-id="33593cbf" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">COPYRIGHT 2025 | AutoFintech&nbsp;</p><p style="text-align: center;">Todos os direitos reservados.<br><em>Uso educacional e operacional. Resultados dependem exclusivamente das decisões e configurações do usuário.</em></p>								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<a href="https://full.services/" style="visibility: hidden; user-select: none; pointer-events: none; display: none;">plugins premium WordPress</a>
+
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Pular</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true"></i>
+				<span class="elementor-screen-only">{{{ $e.components?.get( 'document/elements' )?.utils?.getTitleForLibraryClose() }}}</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor-circle"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="Digite para encontrar qualquer coisa no Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Nenhum resultado encontrado</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script id="elementor-web-cli-js-before">
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/autofintech.com.br\/wp-json\/","assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"01f8bc75c2","version":"3.35.5"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/autofintech.com.br\/wp-json\/","assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"01f8bc75c2","version":"3.35.5"};
+//# sourceURL=elementor-web-cli-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.35.5" id="elementor-web-cli-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1" id="react-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1" id="react-dom-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-notes-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor-pro", {"translation-revision-date":"2025-03-02 19:38:53+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"(deleted user)":["(Usu\u00e1rio Exclu\u00eddo)"],"Notes":["Atividades Desempenhadas"]}},"comment":{"reference":"assets\/js\/notes\/notes.js"}} );
+//# sourceURL=elementor-pro-notes-js-translations
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor-pro/assets/js/notes/notes.min.js?ver=3.35.1" id="elementor-pro-notes-js"></script>
+<script id="elementor-pro-notes-app-initiator-js-before">
+var elementorNotesConfig = {"route":{"title":"Cadastro 1v-B","url":"\/?p=4979","note_url_pattern":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-pro-notes-proxy&note-id={{NOTE_ID}}","post_id":4979,"is_elementor_library":false},"direction":"ltr","is_debug":false,"current_user_can":{"create":true,"create_users":true,"edit_users":true},"urls":{"admin_url_create_user":"https:\/\/autofintech.com.br\/wp-admin\/user-new.php","admin_url_edit_user":"https:\/\/autofintech.com.br\/wp-admin\/user-edit.php","avatar_defaults":{"24":"https:\/\/secure.gravatar.com\/avatar\/?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/?s=96&r=g"},"help_notes_features":"https:\/\/go.elementor.com\/app-notes"}};
+//# sourceURL=elementor-pro-notes-app-initiator-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor-pro/assets/js/notes/notes-app-initiator.min.js?ver=3.35.1" id="elementor-pro-notes-app-initiator-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/backbone.min.js?ver=1.6.0" id="backbone-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1" id="backbone-marionette-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4" id="backbone-radio-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.35.5" id="elementor-common-modules-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.4" id="elementor-dialog-js"></script>
+<script id="wp-api-request-js-extra">
+var wpApiSettings = {"root":"https://autofintech.com.br/wp-json/","nonce":"01f8bc75c2","versionString":"wp/v2/"};
+//# sourceURL=wp-api-request-js-extra
+</script>
+<script src="https://autofintech.com.br/wp-includes/js/api-request.min.js?ver=6.9.1" id="wp-api-request-js"></script>
+<script id="elementor-dev-tools-js-before">
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.35.5"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.35.5"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.35.5"}};
+//# sourceURL=elementor-dev-tools-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.35.5" id="elementor-dev-tools-js"></script>
+<script id="elementor-common-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", {"translation-revision-date":"2026-02-12 02:01:34+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"To upload them anyway, ask the site administrator to enable unfiltered file uploads.":["Para envi\u00e1-los mesmo assim, pe\u00e7a ao administrador do site para ativar os envios de arquivos n\u00e3o filtrados."],"This is because JSON files may pose a security risk.":["Isso ocorre porque os arquivos JSON podem representar um risco de seguran\u00e7a."],"Sorry, you can't upload that file yet":["Voc\u00ea ainda n\u00e3o pode enviar esse arquivo"],"Import Without Enabling":["Importar sem ativar"],"Enable and Import":["Ativar e importar"],"If you do not enable uploading unfiltered files, any SVG or JSON (including lottie) files used in the uploaded template will not be imported.":["Se voc\u00ea n\u00e3o ativar o envio de arquivos n\u00e3o filtrados, nenhum arquivo SVG ou JSON (incluindo lottie) usado no modelo enviado ser\u00e1 importado."],"The file exceeds the maximum upload size for this site.":["O arquivo excede o tamanho m\u00e1ximo de envio para este site."],"Uploading...":["Enviando..."],"Got it":["Entendi"],"Enable Unfiltered File Uploads":["Ativar envios de arquivos n\u00e3o filtrados"],"Unable to connect":["N\u00e3o foi poss\u00edvel conectar"],"Before you enable unfiltered files upload, note that such files include a security risk. Elementor does run a process to remove possible malicious code, but there is still risk involved when using such files.":["Antes de ativar o envio de arquivos n\u00e3o filtrados, observe que esses arquivos incluem um risco de seguran\u00e7a. O Elementor executa um processo para remover poss\u00edveis c\u00f3digos maliciosos, mas ainda h\u00e1 risco envolvido no uso desses arquivos."],"Finder":["Localizador"],"Enable":["Ativar"],"Cancel":["Cancelar"]}},"comment":{"reference":"assets\/js\/common.js"}} );
+//# sourceURL=elementor-common-js-translations
+</script>
+<script id="elementor-common-js-before">
+var elementorCommonConfig = {"version":"3.35.5","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true,"e_pro_variables":true},"allExperimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":false,"theme_builder_v2":true,"hello-theme-header-footer":true,"e_pro_free_trial_popup":false,"nested-elements":true,"pages_panel":false,"home_screen":true,"e_atomic_elements":false,"e_classes":false,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_opt_in_v4":false,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true,"e_pro_atomic_form":false,"mega-menu":false,"e_pro_variables":true,"e_pro_interactions":false,"in_editor_feedback":false,"editor_events":false},"urls":{"assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/autofintech.com.br\/wp-json\/"},"filesUpload":{"unfilteredFiles":true},"editor_events":{"can_send_events":false,"elementor_version":"3.35.5","site_url":"83324bfc85bbdd3e2fb4e205c29113fc798f967fe4752177ca25c153e448aa04","wp_version":"6.9.1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36","site_language":"pt_BR","site_key":"a25f2ad7c4fd3a959762bbbbf3a7cea4","subscription_id":"A-S02747441","subscription":{"expires":"2026-03-03 00:00:00","subscription_id":"A-S02747441","status":"ACTIVE","recurring":true,"features":["template_access_level_20","kit_access_level_20","activity-log","breadcrumbs","form","posts","template","countdown","slides","price-list","portfolio","flip-box","price-table","login","share-buttons","theme-post-content","theme-post-title","nav-menu","blockquote","media-carousel","animated-headline","facebook-comments","facebook-embed","facebook-page","facebook-button","testimonial-carousel","post-navigation","search-form","post-comments","author-box","call-to-action","post-info","theme-site-logo","theme-site-title","theme-archive-title","theme-post-excerpt","theme-post-featured-image","archive-posts","theme-page-title","sitemap","reviews","table-of-contents","lottie","code-highlight","hotspot","video-playlist","progress-tracker","section-effects","sticky","scroll-snap","page-transitions","mega-menu","nested-carousel","loop-grid","loop-carousel","theme-builder","elementor_icons","elementor_custom_fonts","dynamic-tags","taxonomy-filter","email","email2","mailpoet","mailpoet3","redirect","header","footer","single-post","single-page","archive","search-results","error-404","loop-item","font-awesome-pro","typekit","gallery","off-canvas","link-in-bio-var-2","link-in-bio-var-3","link-in-bio-var-4","link-in-bio-var-5","link-in-bio-var-6","link-in-bio-var-7","search","size-variable","transitions","element-manager-permissions","akismet","display-conditions","woocommerce-products","wc-products","woocommerce-product-add-to-cart","wc-elements","wc-categories","woocommerce-product-price","woocommerce-product-title","woocommerce-product-images","woocommerce-product-upsell","woocommerce-product-short-description","woocommerce-product-meta","woocommerce-product-stock","woocommerce-product-rating","wc-add-to-cart","dynamic-tags-wc","woocommerce-product-data-tabs","woocommerce-product-related","woocommerce-breadcrumb","wc-archive-products","woocommerce-archive-products","woocommerce-product-additional-information","woocommerce-menu-cart","woocommerce-product-content","woocommerce-archive-description","paypal-button","woocommerce-checkout-page","woocommerce-cart","woocommerce-my-account","woocommerce-purchase-summary","woocommerce-notices","settings-woocommerce-pages","settings-woocommerce-notices","popup","custom-css","global-css","custom_code","custom-attributes","form-submissions","form-integrations","dynamic-tags-acf","dynamic-tags-pods","dynamic-tags-toolset","editor_comments","stripe-button","role-manager","global-widget","activecampaign","cf7db","convertkit","discord","drip","getresponse","mailchimp","mailerlite","slack","webhook","product-single","product-archive","wc-single-elements","atomic-custom-attributes","atomic-custom-css"],"tier":"agency","generation":"empty","activated":true,"success":true},"token":"150605b3b9f979922f2ac5a52e2dcfe9","session_replays":[],"flags_enabled":false,"isEditorOneActive":true},"library_connect":{"is_connected":true,"user_id":"2190309","user_roles":["administrator"],"subscription_plans":{"free":{"label":null,"promotion_url":null,"color":null},"essential":{"label":"Pro","promotion_url":"https:\/\/my.elementor.com\/upgrade-subscription\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"essential-oct2023":{"label":"Advanced","promotion_url":"https:\/\/my.elementor.com\/upgrade-subscription\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"advanced":{"label":"Advanced","promotion_url":"https:\/\/my.elementor.com\/upgrade-subscription\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"expert":{"label":"Expert","promotion_url":"https:\/\/my.elementor.com\/upgrade-subscription\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"agency":{"label":"Agency","promotion_url":"https:\/\/my.elementor.com\/upgrade-subscription\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}},"base_access_level":0,"base_access_tier":"free","current_access_level":20,"current_access_tier":"agency","plan_type":"agency","user_email":"meuproelementor@gmail.com"},"ajax":{"url":"https:\/\/autofintech.com.br\/wp-admin\/admin-ajax.php","nonce":"b0da75ca54"},"finder":{"data":{"edit":{"title":"Editar","dynamic":true,"name":"edit"},"general":{"title":"Geral","dynamic":false,"items":{"saved-templates":{"title":"Modelos salvos","icon":"library-save","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"Informa\u00e7\u00e3o do sistema","icon":"info-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Gerenciador de fun\u00e7\u00f5es","icon":"person","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Base de conhecimento","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Construtor de temas","icon":"library-save","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-app&ver=3.35.5#\/site-editor","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Modelos de sites","icon":"kit-parts","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-app&ver=3.35.5&source=finder#\/kit-library","keywords":["Website Templates","kit library","kit","library","site parts","parts","assets","templates"]},"popups":{"title":"Popups","icon":"library-save","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=popup&elementor_library_type=popup","keywords":["template","popup","library"]}},"name":"general"},"create":{"title":"Criar","dynamic":false,"items":{"wp-post":{"title":"Adicionar novo(a) Post","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=d55c9d48ee","keywords":["Adicionar novo(a) Post","post","page","template","new","create"]},"wp-page":{"title":"Adicionar novo(a) P\u00e1gina","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=d55c9d48ee","keywords":["Adicionar novo(a) P\u00e1gina","post","page","template","new","create"]},"page":{"title":"Adicionar novo modelo de p\u00e1gina","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=d55c9d48ee","keywords":["Adicionar novo modelo de p\u00e1gina","post","page","template","new","create"]},"section":{"title":"Adicionar novo(a) Se\u00e7\u00e3o","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=section","keywords":["Adicionar novo(a) Se\u00e7\u00e3o","post","page","template","new","create"]},"container":{"title":"Adicionar novo(a) Cont\u00eainer","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=container&_wpnonce=d55c9d48ee","keywords":["Adicionar novo(a) Cont\u00eainer","post","page","template","new","create"]},"floating-buttons":{"title":"Adicionar novo(a) Elemento flutuante","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=floating-buttons","keywords":["Adicionar novo(a) Elemento flutuante","post","page","template","new","create"]},"elementor_component":{"title":"Adicionar novo(a) Componente","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_component&template_type=elementor_component&_wpnonce=d55c9d48ee","keywords":["Adicionar novo(a) Componente","post","page","template","new","create"]},"popup":{"title":"Adicionar novo(a) Popup","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=popup","keywords":["Adicionar novo(a) Popup","post","page","template","new","create"]},"header":{"title":"Adicionar novo(a) Cabe\u00e7alho","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=header","keywords":["Adicionar novo(a) Cabe\u00e7alho","post","page","template","new","create"]},"footer":{"title":"Adicionar novo(a) Rodap\u00e9","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=footer","keywords":["Adicionar novo(a) Rodap\u00e9","post","page","template","new","create"]},"single":{"title":"Adicionar novo(a) Individual","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=single","keywords":["Adicionar novo(a) Individual","post","page","template","new","create"]},"single-post":{"title":"Adicionar novo(a) Post individual","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=single-post","keywords":["Adicionar novo(a) Post individual","post","page","template","new","create"]},"single-page":{"title":"Adicionar novo(a) P\u00e1gina individual","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=single-page&_elementor_template_sub_type=page","keywords":["Adicionar novo(a) P\u00e1gina individual","post","page","template","new","create"]},"archive":{"title":"Adicionar novo(a) Arquivo","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=archive","keywords":["Adicionar novo(a) Arquivo","post","page","template","new","create"]},"search-results":{"title":"Adicionar novo(a) Resultados da pesquisa","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=search-results&_elementor_template_sub_type=search","keywords":["Adicionar novo(a) Resultados da pesquisa","post","page","template","new","create"]},"error-404":{"title":"Adicionar novo(a) Erro 404","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=error-404&_elementor_template_sub_type=not_found404","keywords":["Adicionar novo(a) Erro 404","post","page","template","new","create"]},"code_snippet":{"title":"Adicionar novo(a) C\u00f3digo personalizado","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/post-new.php?post_type=elementor_snippet","keywords":["Adicionar novo(a) C\u00f3digo personalizado","post","page","template","new","create"]},"loop-item":{"title":"Adicionar novo(a) Item do Loop","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=d55c9d48ee&template_type=loop-item","keywords":["Adicionar novo(a) Item do Loop","post","page","template","new","create"]},"theme-template":{"title":"Adicionar novo Modelo de tema","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-app&ver=3.35.5#\/site-editor\/add-new","keywords":["template","theme","new","create"]},"loop-template":{"title":"Adicionar Modelo de Loop","icon":"plus-circle-o","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme&elementor_library_type=loop-item#add_new","keywords":["template","theme","new","create","loop","dynamic","listing","archive","repeater"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Pagina inicial","url":"https:\/\/autofintech.com.br","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Painel","icon":"dashboard","url":"https:\/\/autofintech.com.br\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/autofintech.com.br\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Temas","icon":"wordpress","url":"https:\/\/autofintech.com.br\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Personalizador","icon":"wordpress","url":"https:\/\/autofintech.com.br\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/autofintech.com.br\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Usu\u00e1rios","icon":"wordpress","url":"https:\/\/autofintech.com.br\/wp-admin\/users.php","keywords":["users","profile","wordpress"]},"hello-elementor-home":{"title":"P\u00e1gina inicial do tema Hello","icon":"paint-brush","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=hello-elementor","keywords":["theme","hello","home","plus","+"]},"apps":{"title":"Complementos","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-apps","icon":"apps","keywords":["apps","addon","plugin","extension","integration"]}},"name":"site"},"settings":{"title":"Configura\u00e7\u00f5es","dynamic":false,"items":{"general-settings":{"title":"Configura\u00e7\u00f5es gerais","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-settings#tab-general","keywords":["general","settings","elementor"]},"integrations":{"title":"Integra\u00e7\u00f5es","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-settings#tab-integrations","keywords":["integrations","settings","elementor"]},"advanced":{"title":"Avan\u00e7ado","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-settings#tab-advanced","keywords":["advanced","settings","elementor"]},"performance":{"title":"Desempenho","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-settings#tab-performance","keywords":["performance","settings","elementor"]},"experiments":{"title":"Experimentos","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","experiments"]},"features":{"title":"Recursos","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","features"]},"element-manager":{"title":"Gerenciador de elementos","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-element-manager","keywords":["settings","elements","widgets","manager"]},"custom-fonts":{"title":"Fontes personalizadas","icon":"typography","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=elementor_font","keywords":["custom","fonts","elementor"]},"custom-icons":{"title":"\u00cdcones personalizados","icon":"favorite","url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=elementor_icons","keywords":["custom","icons","elementor"]}},"name":"settings"},"tools":{"title":"Ferramentas","dynamic":false,"items":{"tools":{"title":"Ferramentas","icon":"tools","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Substituir URL","icon":"tools","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Modo de manuten\u00e7\u00e3o","icon":"tools","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Importar\/exportar","icon":"import-export","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Controle de vers\u00e3o","icon":"time-line","url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":true}};
+//# sourceURL=elementor-common-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.35.5" id="elementor-common-js"></script>
+<script id="elementor-app-loader-js-before">
+var elementorAppConfig = {"menu_url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-app&ver=3.35.5#\/site-editor","assets_url":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/autofintech.com.br\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/autofintech.com.br\/wp-admin\/post.php?post=4979&action=elementor","hasPro":true,"admin_url":"https:\/\/autofintech.com.br\/wp-admin\/","login_url":"https:\/\/autofintech.com.br\/wp-login.php","base_url":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-app&ver=3.35.5","home_url":"https:\/\/autofintech.com.br","promotion":{"upgrade_url":"https:\/\/go.elementor.com\/go-pro-theme-builder\/"},"site-editor":[],"import-export":[],"import-export-customization":[],"kit-library":[],"onboarding":[]};
+//# sourceURL=elementor-app-loader-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.35.5" id="elementor-app-loader-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/Gerenciador%20de%20Licenças/assets/js/carousel-frontend.js?ver=1.0.0" id="forex-carousel-script-js"></script>
+<script src="https://autofintech.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.5" id="hello-theme-frontend-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.5" id="elementor-webpack-runtime-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.5" id="elementor-frontend-modules-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":true,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.35.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/autofintech.com.br\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/autofintech.com.br\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"c49dd9ec3b"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":4979,"title":"Cadastro%201v-B%20%E2%80%93%20Auto%20FinTech","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.5" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only" style=""></span>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.1" id="elementor-pro-webpack-runtime-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/autofintech.com.br\/wp-admin\/admin-ajax.php","nonce":"a33fdf2ded","urls":{"assets":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/autofintech.com.br\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/autofintech.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.1" id="elementor-pro-frontend-js"></script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.1" id="pro-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+<script id="elementor-admin-bar-js-before">
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Editar com Elementor","href":"https:\/\/autofintech.com.br\/wp-admin\/post.php?post=4979&action=elementor","children":{"4980":{"id":"elementor_site_settings","title":"Configura\u00e7\u00f5es do site","sub_title":"Site","href":"https:\/\/autofintech.com.br\/wp-admin\/post.php?post=4979&action=elementor&active-document=5","class":"elementor-site-settings","parent_class":"elementor-second-section"},"4981":{"id":"elementor_app_site_editor","title":"Construtor de temas","sub_title":"Site","href":"https:\/\/autofintech.com.br\/wp-admin\/admin.php?page=elementor-app&ver=3.35.5#\/site-editor","class":"elementor-app-link","parent_class":"elementor-second-section"},"4982":{"id":"elementor_site_clear_cache","title":"Limpar arquivos e dados","sub_title":"Site","href":"https:\/\/autofintech.com.br\/wp-admin\/admin-post.php?action=elementor_site_clear_cache&_wpnonce=a493831fcd"}}}};
+//# sourceURL=elementor-admin-bar-js-before
+</script>
+<script src="https://autofintech.com.br/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.35.5" id="elementor-admin-bar-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script src="https://autofintech.com.br/wp-includes/js/admin-bar.min.js?ver=6.9.1" id="admin-bar-js"></script>
+	<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v67327c56f0bb4ef8b305cae61679db8f1769101564043" integrity="sha512-rdcWY47ByXd76cbCFzznIcEaCN71jqkWBBqlwhF1SY7KubdLKZiEGeP7AyieKZlGP9hbY/MhGrwXzJC/HulNyg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;876355b853c84fbda1f382495e70dacc&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+</body></html>
